@@ -1,2 +1,2 @@
 # Business-Analysis
-This will be my first project in business analysis, here I’ll focus on analyzing a real-world business problem, identifying key insights, and using data to support better decision-making.
+This will be my first project in business analysis, here I’ll focus on analyzing a real-world business problem, identifying key insights, and using data to support better decision-making. I would like to strengthen my skills in business analysis and lern from my mistakes.
